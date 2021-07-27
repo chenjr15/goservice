@@ -1,0 +1,6 @@
+servicename: GoHelloWeb
+basedir: "goservice/test"
+bin: "hello.exe"
+args:
+  - -p
+  - 127.0.0.1:8088
